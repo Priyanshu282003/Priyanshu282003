@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Ah0LjkcCzAF1VSxLBK/giphy.gif" width="200">
   <br><br>
   <div id="social">
-    <a href="www.linkedin.com/in/priyanshu-dubey-9b44b1244">
+    <a href="https://www.linkedin.com/in/priyanshu-dubey-9b44b1244">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
     <a href="https://instagram.com/priyanshu_dubey03?igshid=MzMyNGUyNmU2YQ==">
