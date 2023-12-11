@@ -37,8 +37,6 @@
           <a href="https://instagram.com/priyanshu_dubey03?igshid=MzMyNGUyNmU2YQ==">
           <img src="https://img.shields.io/badge/Instagram-hotpink?logo=Instagram&logoColor=white&style=for-the-badge"  width="122">
           </a><br><br>
-         
-        </li>
       </ul>
 </div>
   
@@ -79,48 +77,48 @@
   <a href="https://aws.amazon.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS">
   </a>
-  <a href="https://portswigger.net/burp">
-    <img src="https://blog.seeweb.it/wp-content/uploads/2016/02/logo_burpsuite.png" width="40" height="40" alt="Burpsuite">
+  <a href="https://www.mongodb.com/">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mongodb.svg" width="40" height="40" alt="mongodb">
   </a>
-  <a href="https://www.wireshark.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="40" height="40" alt="Wireshark">
+  <a href="https://nodejs.org/en">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg" width="40" height="40" alt="Wireshark">
   </a>
   <a href="https://getbootstrap.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap">
   </a>
-  <a href="https://ubuntu.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu">
+  <a href="https://www.php.net/">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/php.svg" width="40" height="40" alt="php">
   </a>
-  <a href="https://github.com/openwall/john">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RskE3gLI4IDVvxw1rPo8YQAAAA%26pid%3DApi&f=1&ipt=85d602441baed38519afd39f94013f12fbc6dab0d631152549eb304f37d9cb70&ipo=images" width="40" height="40" alt="JohntheRipper">
+  <a href="https://react.dev/">
+    <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/react.svg" width="40" height="40" alt="JohntheRipper">
   </a>
-  <a href="https://www.bettercap.org/">
+<!--   <a href="https://www.bettercap.org/">
     <img src="https://www.bettercap.org/logo.png" width="40" height="40" alt="Bettercap">
-  </a>
-  <a href="https://beefproject.com/">
+  </a> -->
+<!--   <a href="https://beefproject.com/">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F1214850%3Fs%3D400%26v%3D4&f=1&nofb=1&ipt=d579e0fed70b77dc20ee85f0e5426ccc3d797cfd1a522437af126453cd1729d8&ipo=images" width="40" height="40" alt="BeEF">
-  </a>
-  <a href="https://www.metasploit.com/">
+  </a> -->
+<!--   <a href="https://www.metasploit.com/">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg2.freepng.es%2F20180524%2Fegt%2Fkisspng-metasploit-project-penetration-test-security-hacke-5b072f9ad4d962.7481310415271975948718.jpg&f=1&nofb=1&ipt=2cb86075301d5581804701542f5cf1cf3bc3247a515e4086ffa550519cf83432&ipo=images" width="40" height="40" alt="Metasploit">
-  </a>
-  <a href="https://www.torproject.org/">
+  </a> -->
+<!--   <a href="https://www.torproject.org/">
     <img src="https://www.torproject.org/static/images/favicon/favicon.ico" width="40" height="40" alt="TOR">
-  </a>
-  <a href="https://nmap.org/">
+  </a> -->
+<!--   <a href="https://nmap.org/">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.google-melange.com%2Farchive%2Fgsoc%2F2015%2Forgs%2Fnmap%2Flogo-200.png&f=1&nofb=1&ipt=d503d5c046c3ccf4d7af67b65e09fc2bd11b28405fa278f47bc1246c7641c551&ipo=images" width="40" height="40" alt="Nmap">
-  </a>
-  <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns">
+  </a> -->
+<!--   <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.techspot.com%2Fimages2%2Fdownloads%2Ftopdownload%2F2021%2F12%2F2021-12-16-ts3_thumbs-dfe.png&f=1&nofb=1&ipt=a49f963f0c44f56945d048409e4f4fc2eb1c930b3d9f7aa151e243c6ab1fc19a&ipo=images" width="40" height="40" alt="Autoruns">
-  </a>
+  </a> -->
   <a href="https://www.jetbrains.com/pycharm/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm">
   </a>
   <a href="https://code.visualstudio.com/">
      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode">
   </a>
-  <a href="https://www.rapid7.com/products/nexpose/">
+<!--   <a href="https://www.rapid7.com/products/nexpose/">
      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsoftvn.vn%2Fwp-content%2Fuploads%2F2020%2F06%2Fnextpose_logo.png&f=1&nofb=1&ipt=faab753b04425081c8a74d24eb231d7f3148cd1c96edc67cec3b637c691c3013&ipo=images" width="40" height="40" alt="Nexpose">
-  </a>
+  </a> -->
   <a href="https://www.canva.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40" alt="Canva">
   </a>
