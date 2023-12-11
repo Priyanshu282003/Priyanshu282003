@@ -8,9 +8,7 @@
     <a href="https://instagram.com/priyanshu_dubey03?igshid=MzMyNGUyNmU2YQ==">
       <img src="https://img.shields.io/badge/Instagram-hotpink?logo=Instagram&logoColor=white&style=for-the-badge">
     </a>
-    <a href="https://twitter.com/AyushGhogre">
-      <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge">
-    </a>
+    
   </div>
 </div>
 <div align="center">
